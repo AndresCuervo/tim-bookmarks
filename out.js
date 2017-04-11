@@ -1,0 +1,1 @@
+javascript:(function()%7Bfunction%20downloadURI(o)%7Bvar%20e%3Ddocument.createElement(%22a%22)%3Be.download%3D!0%2Ce.href%3Do%2Ce.click()%7Dfor(var%20audioFileNode%3Ddocument.querySelector(%22%23jp_audio_0%22)%2Ci%3D1%3B5%3E%3Di%3Bi%2B%2B)document.querySelector(%22%23p_block%22%2Bi).childNodes%5B1%5D.click()%2CdownloadURI(audioFileNode.src)%3B%7D)()
