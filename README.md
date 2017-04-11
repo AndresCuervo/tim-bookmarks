@@ -1,4 +1,6 @@
-Just some notes:
+Just some notes on creating a script to download from
+[the Exploring Music website](http://exploringmusic.wfmt.com/)
+---
 
 it looks like the `src` on the HTML ID `jp_audio_0` is going to be the correct
 thing to download.
